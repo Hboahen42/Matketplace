@@ -1,0 +1,21 @@
+.details-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.details-container img {
+width: 100%;
+height: auto;
+border-radius: 8px;
+}
+
+.details-container h2 {
+font-size: 24px;
+margin: 10px 0;
+}
+
+.details-container p {
+font-size: 18px;
+color: #555;
+}
